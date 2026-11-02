@@ -2,6 +2,8 @@
 
 FPS tático 5v5 em pixel art, com as cores como mecânica central. Jogável direto no navegador.
 
+**Jogue no navegador:** https://color-splash-pixel.vercel.app
+
 ## O jogo
 - **10 agentes**, um por família de cor (Cinder, Tide, Bloom, Surge, Rift, Rime, Breach, Signal, Lumen e Null), cada um com habilidades próprias e uma ultimate.
 - **Interações entre cores**: água apaga fogo, raio eletrifica água, gelo congela água, luz contra sombra.
