@@ -13,10 +13,6 @@ FPS tático 5v5 em pixel art, com as cores como mecânica central. Jogável dire
 - **Bots com 3 dificuldades.**
 - Controles no estilo dos FPS táticos: correr, andar em silêncio, agachar, pular, mira com zoom, troca de armas e habilidades.
 
----
-
-Este repositório é uma **vitrine** do projeto: mostra o que o jogo é. O código-fonte não é público.
-
 ## Telas
 
 ![Tela de título](images/titulo.jpg)
